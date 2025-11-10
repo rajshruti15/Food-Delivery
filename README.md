@@ -1,7 +1,7 @@
 <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=dummy" alt="Visitor badge"/>
     
 # Food Delivery Website - Frontend
-# Hi, I'm Soumya Raj! 👋
+# Hi, I'm Shruti Raj! 👋
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-raj-/)
 

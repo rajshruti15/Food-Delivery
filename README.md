@@ -3,7 +3,7 @@
 # Food Delivery Website - Frontend
 # Hi, I'm Shruti Raj! 👋
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-raj-/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutirajj/)
 
 This Project is all about frontend website development
     
@@ -15,7 +15,7 @@ This Project is all about frontend website development
 
     You can clone it to your Github Account by executing the code below in your system terminal. (Ignore this step, If you have already downloaded)
 ```bash
-  https://github.com/iSoumyaSinha/Dummy.git
+  https://github.com/rajshruti15
 ```
 
 💬 Ask me, If your project is not running - 
